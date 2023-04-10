@@ -1,8 +1,13 @@
 * {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
 }
 
 .prepared-dish {
     height: auto;
     width: 400px;
+}
+.description,
+.steps {
+    background-color:beige;
 }
