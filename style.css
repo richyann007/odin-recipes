@@ -11,3 +11,7 @@
 .steps {
     background-color:beige;
 }
+button {
+    background-color: rgb(111, 111, 216);
+    color: white;
+}
